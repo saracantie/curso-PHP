@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECTS>
+  <OBJECT>
+    <ID Sul="Sim">1</ID>
+    <DESCRIPTION>PR</DESCRIPTION>
+  </OBJECT>
+  <OBJECT>
+    <ID Sul="Sim">2</ID>
+    <DESCRIPTION>RS</DESCRIPTION>
+  </OBJECT>
+  <OBJECT>
+    <ID Sul="Sim">3</ID>
+    <DESCRIPTION>SC</DESCRIPTION>
+  </OBJECT>
+  <OBJECT>
+    <ID Sul="Não">4</ID>
+    <DESCRIPTION>SP</DESCRIPTION>
+  </OBJECT>
+  <OBJECT>
+    <ID Sul="Não">5</ID>
+    <DESCRIPTION>RJ</DESCRIPTION>
+  </OBJECT>
+  <OBJECT>
+    <ID Sul="Não">6</ID>
+    <DESCRIPTION>SP</DESCRIPTION>
+  </OBJECT>
+</OBJECTS>
